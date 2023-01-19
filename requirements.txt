@@ -1,3 +1,5 @@
+numpy==1.18.5
+streamlit==1.16.0
 transformers==4.24.0
 keras==2.3.1
 tensorflow==2.3.0
